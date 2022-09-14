@@ -9,7 +9,13 @@ This repository provides our implementation of the Micccai 2022 paper "Landmark-
 If you use our work, please cite:
 
 ```
-TBA
+@inproceedings{luedke2022landmark,
+  title={Landmark-Free Statistical Shape Modeling Via Neural Flow Deformations},
+  author={L{\"u}dke, David and Amiranashvili, Tamaz and Ambellan, Felix and Ezhov, Ivan and Menze, Bjoern and Zachow, Stefan},
+  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022},
+  year={2022},
+  publisher={Springer International Publishing}
+}
 ```
 
 ### Requirements
