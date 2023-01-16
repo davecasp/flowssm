@@ -1,6 +1,6 @@
 # Landmark-free Statistical Shape Modeling via Neural Flow Deformations
 
-This repository provides our implementation of the Micccai 2022 paper "Landmark-free Statistical Shape Modeling via Neural Flow Deformations" (link TBA). FlowSSM is a shape model where shapes are modeled as continuous neural flow-based deformations of a template shape.
+This repository provides the original implementation of our MICCAI 2022 paper "[Landmark-free Statistical Shape Modeling via Neural Flow Deformations](https://arxiv.org/abs/2209.06861)".
 
 
 ![](img/teaser.png)
@@ -9,12 +9,13 @@ This repository provides our implementation of the Micccai 2022 paper "Landmark-
 If you use our work, please cite:
 
 ```
-@inproceedings{luedke2022landmark,
-  title={Landmark-Free Statistical Shape Modeling Via Neural Flow Deformations},
-  author={L{\"u}dke, David and Amiranashvili, Tamaz and Ambellan, Felix and Ezhov, Ivan and Menze, Bjoern and Zachow, Stefan},
+@inproceedings{10.1007/978-3-031-16434-7_44,
+  title={Landmark-free Statistical Shape Modeling via Neural Flow Deformations},
+  author={L{\"u}dke, David and Amiranashvili, Tamaz and Ambellan, Felix and Ezhov, Ivan and Menze, Bjoern H. and Zachow, Stefan},
   booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022},
+  pages={453--463},
   year={2022},
-  publisher={Springer International Publishing}
+  publisher={Springer Nature Switzerland}
 }
 ```
 
